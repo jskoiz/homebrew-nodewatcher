@@ -1,6 +1,6 @@
 cask "nodewatcher" do
-  version "0.1.1"
-  sha256 "5306c1520d49356a73f733f11242d7800e2c384f6224a10ee6ed10ece910e729"
+  version "0.2.1"
+  sha256 "016041a03c32cebff719a04053bc0a6245c411c914f6369cf9b983bbb9b81e88"
 
   url "https://github.com/jskoiz/node-watcher/releases/download/v#{version}/NodeWatcher-#{version}-mac.zip"
   name "NodeWatcher"
