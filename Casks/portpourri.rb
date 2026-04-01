@@ -1,6 +1,6 @@
 cask "portpourri" do
-  version "0.4.0"
-  sha256 "a914d7a6954a383ff3b05bfb356f9c20f731bad439261f2a253dc92d9fa642ec"
+  version "0.4.2"
+  sha256 "6c539576623fa541adcb90ad4ff4ff3998939be2d56741a8ea5fdcd430fb1a5c"
 
   url "https://github.com/jskoiz/portpourri/releases/download/v#{version}/Portpourri-#{version}-mac.zip"
   name "Portpourri"
